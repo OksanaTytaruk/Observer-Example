@@ -1,0 +1,2 @@
+# Observer-Example
+Спостерігач
